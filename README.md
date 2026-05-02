@@ -30,10 +30,10 @@ This project analyses customer churn behaviour using Python and machine learning
 
 ## Visualisations
 
-![Churn Overview](images/churn_overview_dashboard.png)
+![Churn Overview](churn_overview_dashboard.png)
 
-![Tenure vs Churn](images/tenure_vs_churn.png)
+![Tenure vs Churn](tenure_vs_churn.png)
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
